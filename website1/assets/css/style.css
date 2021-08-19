@@ -2,6 +2,11 @@ body{
     background-color: white !important;
 }
 
+.form-group {
+    justify-content:flex-start;
+    text-align: center;
+}
+
 .jumbotron {
     background-image: url("../img/bg.jpg");
     background-size: contain;

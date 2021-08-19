@@ -1,8 +1,28 @@
 body{
-    background: #BDBDBD;
+    background-color: white !important;
 }
 
 .form-group {
     justify-content:flex-start;
     text-align: center;
+}
+
+.jumbotron {
+    background-image: url("../img/bg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1100px;
+  }
+
+.jumbotron-text {
+    background-color: white;
+    font-weight: 600;
+}
+
+.title-1 {
+    font-size: 120px;
+}
+
+.subtitle-1 {
+    font-size: 70px;
 }
